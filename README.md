@@ -17,6 +17,6 @@
 
 
 
-[![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/Ramya766?theme=dark&font=Amiko))](https://leetcode.com/u/Ramya766/)
+(![LeetCode Stats](https://leetcard.jacoblin.cool/Ramya766?theme=dark&font=Amiko))](https://leetcode.com/u/Ramya766/)
 
-[![Ramya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramya766&bg_color=0d1117&color=ffffff&line=f7f7f7&point=4bc242&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Ramya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramya766&bg_color=0d1117&color=ffffff&line=f7f7f7&point=4bc242&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
